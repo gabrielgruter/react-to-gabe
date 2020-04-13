@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-to-gabe"]=this["webpackJsonpreact-to-gabe"]||[]).push([[0],{43:function(t,e,n){t.exports=n(53)},53:function(t,e,n){"use strict";n.r(e);var o=n(0),r=n(23),a=n(54),p=function(){return o.createElement(r.a,null,o.createElement(a.a,null,"Hello World - App"))},c=n(55);c.a.registerComponent("App",(function(){return p})),c.a.runApplication("App",{rootTag:document.getElementById("root")})}},[[43,1,2]]]);
+//# sourceMappingURL=main.f1cd87a9.chunk.js.map
