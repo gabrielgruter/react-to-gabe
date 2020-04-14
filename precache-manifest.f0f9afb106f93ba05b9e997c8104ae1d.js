@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1ee2b760e7b871a47e58eb8fd5dbfc1",
+    "revision": "493f45f7871e38494f16dafaee4baa95",
     "url": "/react-to-gabe/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-to-gabe/static/js/2.badb8535.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7179a37399c9d6b4e20a",
-    "url": "/react-to-gabe/static/js/main.26847750.chunk.js"
+    "revision": "1f7e09f9a65912dadbe9",
+    "url": "/react-to-gabe/static/js/main.596d6c2b.chunk.js"
   },
   {
     "revision": "7bf3bac844c3ad64303a",
