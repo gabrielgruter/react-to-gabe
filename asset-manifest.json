@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/gabrielgruter.com/static/js/main.26847750.chunk.js",
-    "main.js.map": "/gabrielgruter.com/static/js/main.26847750.chunk.js.map",
-    "runtime-main.js": "/gabrielgruter.com/static/js/runtime-main.2948bb82.js",
-    "runtime-main.js.map": "/gabrielgruter.com/static/js/runtime-main.2948bb82.js.map",
-    "static/js/2.badb8535.chunk.js": "/gabrielgruter.com/static/js/2.badb8535.chunk.js",
-    "static/js/2.badb8535.chunk.js.map": "/gabrielgruter.com/static/js/2.badb8535.chunk.js.map",
-    "index.html": "/gabrielgruter.com/index.html",
-    "precache-manifest.a81f49881761a8c4ef2b17240351862c.js": "/gabrielgruter.com/precache-manifest.a81f49881761a8c4ef2b17240351862c.js",
-    "service-worker.js": "/gabrielgruter.com/service-worker.js",
-    "static/js/2.badb8535.chunk.js.LICENSE.txt": "/gabrielgruter.com/static/js/2.badb8535.chunk.js.LICENSE.txt"
+    "main.js": "/react-to-gabe/static/js/main.26847750.chunk.js",
+    "main.js.map": "/react-to-gabe/static/js/main.26847750.chunk.js.map",
+    "runtime-main.js": "/react-to-gabe/static/js/runtime-main.d6cc3267.js",
+    "runtime-main.js.map": "/react-to-gabe/static/js/runtime-main.d6cc3267.js.map",
+    "static/js/2.badb8535.chunk.js": "/react-to-gabe/static/js/2.badb8535.chunk.js",
+    "static/js/2.badb8535.chunk.js.map": "/react-to-gabe/static/js/2.badb8535.chunk.js.map",
+    "index.html": "/react-to-gabe/index.html",
+    "precache-manifest.63def65244e21d30172c9f7cbb9cfb6b.js": "/react-to-gabe/precache-manifest.63def65244e21d30172c9f7cbb9cfb6b.js",
+    "service-worker.js": "/react-to-gabe/service-worker.js",
+    "static/js/2.badb8535.chunk.js.LICENSE.txt": "/react-to-gabe/static/js/2.badb8535.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2948bb82.js",
+    "static/js/runtime-main.d6cc3267.js",
     "static/js/2.badb8535.chunk.js",
     "static/js/main.26847750.chunk.js"
   ]
